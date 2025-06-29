@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm passionate about building serverless cloud sol
 ## 📄 Resume
 
 Want to know more about my experience?  
-📥 [Download CV – Lebenslauf_Youssef_Tayachi.pdf](https://yousseftayachi.github.io/Lebenslauf_Youssef_Tayachi.pdf)
+📥 Lebenslauf & Cloud Portfolio_Youssef Tayachi.pdf
 
 ---
 
