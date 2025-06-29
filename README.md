@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm passionate about building serverless cloud sol
 ### 🔹 [Azure Function + Cosmos DB](https://github.com/YoussefTayachi/azure-function-cosmosdb)
 > An **HTTP-triggered Azure Function** that stores and retrieves JSON data from **Cosmos DB (NoSQL)**.
 
-🔷 [Azure ADF – CSV Copy Pipeline](https://github.com/YoussefTayachi/azure-adf-csv-copy)  
+### 🔷 [**Azure ADF – CSV Copy Pipeline**](https://github.com/YoussefTayachi/azure-adf-csv-copy)
 > A demo project using **Azure Data Factory** to copy CSV files between different storage containers. Includes a clear folder structure, pipeline JSON export, and visual monitoring via Azure UI.
 
 ---
