@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm passionate about building serverless cloud sol
 ## 🚀 Tech Stack
 
 - **Languages**: Python, JavaScript, HTML/CSS  
-- **Cloud**: Azure Functions, Cosmos DB, Azure Monitor  
+- **Cloud**: Azure Functions, Cosmos DB, Azure Monitor, Azure Data Factory, Synapse  
 - **Tools**: GitHub, VS Code, Flask  
 - **DevOps**: CI/CD, GitHub Actions, Serverless Architectures
 
@@ -46,7 +46,7 @@ Want to know more about my experience?
 
 - Email: [youssef.tayachi@syro-ai.com](mailto:youssef.tayachi@syro-ai.com)  
 - GitHub Portfolio: [yousseftayachi.github.io](https://yousseftayachi.github.io)  
-- LinkedIn: _(optional, if you want to add)_
+- LinkedIn: https://www.linkedin.com/in/youssef-tayachi-b4b060268/
 
 ---
 
